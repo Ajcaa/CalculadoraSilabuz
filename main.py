@@ -1,4 +1,4 @@
-#Alvaro Jose Chancafe Araujo, Antonio Manuel Barrantes Rupaylla, Andree Sebastian
+# -------CALCULADORA ------- #
 
 num1 = float(input("Elija un Primer Numero: "))
 num2 = float(input("Elija un Segundo Numero: "))
